@@ -25,3 +25,19 @@ How I made:-
 5. Predict the target variable
 <br>
 6. Evaluate the model.....
+<br>
+<br>
+Tools Used:-
+<br>
+1. Python (Programming Language)
+<br>
+2. Pandas
+<br>
+<br>
+3. Matplotlib
+<br>
+4.Seaborn
+<br>
+5. Machine Learning
+<br>
+6. Random Forest
