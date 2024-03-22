@@ -12,15 +12,3 @@ How it helps:-
 This project is useful to identify the consumer behavior. Basically it helps to the marketing team to identify the consumer personality. So, that they can make efficient decision in marketing campaign. They can achieve the goal by this analysis.
 <br>
 <br>
-How I made:-
-1. I have imported the dataset into the jupyter notebook with the help of pandas.
-<br>
-2. Perform some data cleaning and preprocessing steps on top of the dataset like data inaccuracy, null values, outliers etc...
-<br>
-3. Exploratory Data Analysis (EDA) on the preprocessed data to understand the data in well mannered. Like Univariate Analysis, Bi-Variate Analysis, Muti-Variate analysis. In this step I used some amazing charts and visualization to present the data.
-<br>
-4. Using Random Forest Regressor trained a model.
-<br>
-5. Predict the target variable
-<br>
-6. Evaluate the model.....
