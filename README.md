@@ -12,8 +12,7 @@ How it helps:-
 This project is useful to identify the consumer behavior. Basically it helps to the marketing team to identify the consumer personality. So, that they can make efficient decision in marketing campaign. They can achieve the goal by this analysis.
 <br>
 
-How I made:-
-<br>
+ How I made:-
 1. I have imported the dataset into the jupyter notebook with the help of pandas.
 <br>
 2. Perform some data cleaning and preprocessing steps on top of the dataset like data inaccuracy, null values, outliers etc...
