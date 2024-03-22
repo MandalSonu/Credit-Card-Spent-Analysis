@@ -13,6 +13,7 @@ This project is useful to identify the consumer behavior. Basically it helps to 
 <br>
 <br>
 How I made:-
+<br>
 1. I have imported the dataset into the jupyter notebook with the help of pandas.
 <br>
 3. Perform some data cleaning and preprocessing steps on top of the dataset like data inaccuracy, null values, outliers etc...
