@@ -16,7 +16,7 @@ How I made:-
 <br>
 1. I have imported the dataset into the jupyter notebook with the help of pandas.
 <br>
-3. Perform some data cleaning and preprocessing steps on top of the dataset like data inaccuracy, null values, outliers etc...
+2. Perform some data cleaning and preprocessing steps on top of the dataset like data inaccuracy, null values, outliers etc...
 <br>
 5. Exploratory Data Analysis (EDA) on the preprocessed data to understand the data in well mannered. Like Univariate Analysis, Bi-Variate Analysis, Muti-Variate analysis. In this step I used some amazing charts and visualization to present the data.
 <br>
